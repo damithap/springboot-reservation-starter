@@ -1,13 +1,17 @@
 package com.hotel.reservation.data.entity;
 
 import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 import lombok.ToString;
 
 @Entity
 @Table(name="guests")
 @Data
 @ToString
+@AllArgsConstructor
+@NoArgsConstructor
 public class Guest {
 
     @Id

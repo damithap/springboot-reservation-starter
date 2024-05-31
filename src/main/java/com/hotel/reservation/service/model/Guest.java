@@ -1,6 +1,5 @@
 package com.hotel.reservation.service.model;
 
-import jakarta.persistence.Column;
 import lombok.*;
 
 @Getter

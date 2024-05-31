@@ -1,0 +1,29 @@
+INSERT INTO HOTEL.GUESTS (LAST_NAME, FIRST_NAME, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, PHONE_NUMBER) 
+VALUES('Doe', 'John', 'john.doe@example.com', 'United States', '1234 Test Street', 'NY', '1-(123)456-1234');
+
+INSERT INTO HOTEL.GUESTS (LAST_NAME, FIRST_NAME, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, PHONE_NUMBER) 
+VALUES('Smith', 'Jane', 'jane.smith@example.com', 'Canada', '5678 Sample Road', 'ON', '1-(987)654-4321');
+
+INSERT INTO HOTEL.GUESTS (LAST_NAME, FIRST_NAME, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, PHONE_NUMBER) 
+VALUES('Johnson', 'Mike', 'mike.johnson@example.com', 'United Kingdom', '7890 Demo Ave', 'ENG', '44-20-7946-0958');
+
+INSERT INTO HOTEL.GUESTS (LAST_NAME, FIRST_NAME, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, PHONE_NUMBER) 
+VALUES('Williams', 'Emily', 'emily.williams@example.com', 'Australia', '1011 Mock Blvd', 'NSW', '61-2-9374-4000');
+
+INSERT INTO HOTEL.GUESTS (LAST_NAME, FIRST_NAME, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, PHONE_NUMBER) 
+VALUES('Brown', 'David', 'david.brown@example.com', 'New Zealand', '1213 Test Court', 'AKL', '64-9-379-6000');
+
+INSERT INTO HOTEL.GUESTS (LAST_NAME, FIRST_NAME, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, PHONE_NUMBER) 
+VALUES('Davis', 'Sarah', 'sarah.davis@example.com', 'Ireland', '1415 Sample St', 'D', '353-1-456-7890');
+
+INSERT INTO HOTEL.GUESTS (LAST_NAME, FIRST_NAME, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, PHONE_NUMBER) 
+VALUES('Martinez', 'Carlos', 'carlos.martinez@example.com', 'Spain', '1617 Example Way', 'MD', '34-91-123-4567');
+
+INSERT INTO HOTEL.GUESTS (LAST_NAME, FIRST_NAME, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, PHONE_NUMBER) 
+VALUES('Garcia', 'Maria', 'maria.garcia@example.com', 'Mexico', '1819 Sample Lane', 'CMX', '52-55-1234-5678');
+
+INSERT INTO HOTEL.GUESTS (LAST_NAME, FIRST_NAME, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, PHONE_NUMBER) 
+VALUES('Clark', 'Robert', 'robert.clark@example.com', 'South Africa', '2021 Test Dr', 'WC', '27-21-123-4567');
+
+INSERT INTO HOTEL.GUESTS (LAST_NAME, FIRST_NAME, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, PHONE_NUMBER) 
+VALUES('Lewis', 'Laura', 'laura.lewis@example.com', 'France', '2223 Demo Circle', 'IDF', '33-1-234-5678');
